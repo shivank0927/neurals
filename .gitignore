@@ -5,8 +5,10 @@ __pycache__/
 
 
 # temp
-neural.py
 dataset
+
+# venv
+nvenv
 
 # C extensions
 *.so
